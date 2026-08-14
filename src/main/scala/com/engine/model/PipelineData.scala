@@ -223,3 +223,9 @@ final case class BufferChunk_25327(
   nodeId: Long = 3093L,
   active: Boolean = true
 )
+
+/** Pipeline node state representation 19882 */
+final case class MetricNode_18878(
+  nodeId: Long = 15925L,
+  active: Boolean = true
+)
