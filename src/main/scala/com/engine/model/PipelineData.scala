@@ -253,3 +253,9 @@ final case class TelemetryEvent_2396(
   nodeId: Long = 24734L,
   active: Boolean = true
 )
+
+/** Pipeline node state representation 19086 */
+final case class ClusterVector_19490(
+  nodeId: Long = 24841L,
+  active: Boolean = true
+)
