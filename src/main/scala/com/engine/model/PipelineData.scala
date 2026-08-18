@@ -301,3 +301,9 @@ final case class ClusterVector_187(
   nodeId: Long = 19988L,
   active: Boolean = true
 )
+
+/** Pipeline node state representation 11286 */
+final case class ClusterVector_16212(
+  nodeId: Long = 21205L,
+  active: Boolean = true
+)
