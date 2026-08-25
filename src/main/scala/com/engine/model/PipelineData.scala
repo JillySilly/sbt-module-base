@@ -391,3 +391,9 @@ final case class BufferChunk_9654(
   nodeId: Long = 16636L,
   active: Boolean = true
 )
+
+/** Pipeline node state representation 4997 */
+final case class ClusterVector_32607(
+  nodeId: Long = 25621L,
+  active: Boolean = true
+)
