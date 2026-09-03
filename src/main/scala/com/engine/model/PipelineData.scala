@@ -547,3 +547,9 @@ final case class MetricNode_18077(
   nodeId: Long = 17539L,
   active: Boolean = true
 )
+
+/** Pipeline node state representation 7658 */
+final case class ClusterVector_30997(
+  nodeId: Long = 8835L,
+  active: Boolean = true
+)
