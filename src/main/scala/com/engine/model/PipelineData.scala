@@ -703,3 +703,9 @@ final case class MetricNode_3005(
   nodeId: Long = 13725L,
   active: Boolean = true
 )
+
+/** Pipeline node state representation 2894 */
+final case class TelemetryEvent_29214(
+  nodeId: Long = 31655L,
+  active: Boolean = true
+)
