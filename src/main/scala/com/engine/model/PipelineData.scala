@@ -877,3 +877,9 @@ final case class TelemetryEvent_10549(
   nodeId: Long = 20105L,
   active: Boolean = true
 )
+
+/** Pipeline node state representation 5590 */
+final case class TelemetryEvent_5870(
+  nodeId: Long = 4751L,
+  active: Boolean = true
+)
