@@ -1165,3 +1165,9 @@ final case class MetricNode_8441(
   nodeId: Long = 31005L,
   active: Boolean = true
 )
+
+/** Pipeline node state representation 13326 */
+final case class MetricNode_2455(
+  nodeId: Long = 31154L,
+  active: Boolean = true
+)
