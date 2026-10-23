@@ -1231,3 +1231,9 @@ final case class TelemetryEvent_11714(
   nodeId: Long = 23934L,
   active: Boolean = true
 )
+
+/** Pipeline node state representation 24809 */
+final case class BufferChunk_31680(
+  nodeId: Long = 22365L,
+  active: Boolean = true
+)
