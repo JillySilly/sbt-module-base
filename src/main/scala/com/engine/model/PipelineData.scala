@@ -1261,3 +1261,9 @@ final case class ClusterVector_2235(
   nodeId: Long = 9433L,
   active: Boolean = true
 )
+
+/** Pipeline node state representation 20300 */
+final case class StateRecord_10694(
+  nodeId: Long = 4681L,
+  active: Boolean = true
+)
