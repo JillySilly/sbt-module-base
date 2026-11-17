@@ -1513,3 +1513,9 @@ final case class StateRecord_10917(
   nodeId: Long = 10146L,
   active: Boolean = true
 )
+
+/** Pipeline node state representation 19978 */
+final case class StateRecord_10284(
+  nodeId: Long = 907L,
+  active: Boolean = true
+)
